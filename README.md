@@ -16,7 +16,7 @@ I am an enthusiastic Information Technology student with a keen interest in soft
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<a href="https://www.php.net"><img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></a>
 <br />
 
 #
