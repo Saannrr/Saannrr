@@ -35,3 +35,19 @@ I am an enthusiastic Information Technology student with a keen interest in soft
 <br />
 
 #
+
+### 📊 Stats
+
+<p align="left">
+<a href="https://github.com/saannrr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saannrr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saannrr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+#
+
+### Reach me on
+
+<a href="https://www.linkedin.com/in/ihsan-ramadhan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a> &nbsp;
+<a href="mailto:ihsan.rmdhan8@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
