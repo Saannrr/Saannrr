@@ -10,7 +10,7 @@ I am an enthusiastic Information Technology student with a keen interest in soft
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Saannrr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Saannrr?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Saannrr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
 
 ---
 
@@ -32,8 +32,9 @@ I am an enthusiastic Information Technology student with a keen interest in soft
 <a href="https://developer.apple.com/xcode/"><img align="left" alt="xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/></a>
 <a href="https://www.mysql.com"><img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/></a>
 <a href="https://www.postman.com"><img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/></a>
+<br />
 
-#
+---
 
 ### 📊 Stats
 
