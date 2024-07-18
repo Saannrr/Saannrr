@@ -32,6 +32,8 @@ I am an enthusiastic Information Technology student with a keen interest in soft
 <a href="https://developer.apple.com/xcode/"><img align="left" alt="xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/></a>
 <a href="https://www.mysql.com"><img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/></a>
 <a href="https://www.postman.com"><img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/></a>
+<a href="https://www.docker.com"><img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/></a>
+<a href="https://www.cloud.google.com"><img align="left" alt="gcp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/></a>
 <br>
 <br>
 <br>
